@@ -1,0 +1,10 @@
+{
+  "name": "BrightR Financial Australia",
+  "description": "Premium Australian financial advisory and mortgage broking firm featuring a live server-side AI Financial Planner, interactive calculators, custom aged care insights, and onboarding diagnostics.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
